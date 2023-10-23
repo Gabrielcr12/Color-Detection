@@ -1,3 +1,4 @@
+#Prueba detección de colores zed
 import rclpy
 from std_msgs.msg import String
 import imutils
