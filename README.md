@@ -35,4 +35,4 @@ El codigo identifica tres colores principales a traves del uso de OpenCV y publi
    - Libera los recursos de la cámara y cierra la ventana de video.
 
 8. **Ejecución del Nodo**:
-   - El código se ejecuta como un nodo ROS 2 llamado "color_detection_node".
+   - El código se ejecuta como un nodo ROS 2 llamado "color_detection_node". 
