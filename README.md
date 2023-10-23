@@ -1,5 +1,5 @@
 # Detección de Colores con OpenCV
-El codigo identifica cuatro colores principales a traves del uso de OpenCV y publica el color detectado.
+El código identifica cuatro colores principales a través del uso de OpenCV y publica el color detectado.
 
 ## Funcionamiento
 
