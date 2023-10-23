@@ -1,4 +1,4 @@
-# Detección de Colores con ROS 2 y OpenCV
+# Detección de Colores con OpenCV
 El codigo identifica tres colores principales a traves del uso de OpenCV y publica el color detectado.
 
 ## Funcionamiento
